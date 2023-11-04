@@ -1,7 +1,7 @@
 local Games = {
-  {"Legends of Speed", 3101667897, nil},
-  {"Muscle Legends", 3623096087, nil},
-  {"Ninja Legenss", 3956818381, nil}
+  {"Legends of Speed", 3101667897, "https://raw.githubusercontent.com/DsM-6/DsM-Hub/main/Games/Legends-of-Speed.lua"},
+  {"Muscle Legends", 3623096087, "https://raw.githubusercontent.com/DsM-6/DsM-Hub/main/Games/Muscle-Legends.lua"},
+  {"Ninja Legenss", 3956818381, "https://raw.githubusercontent.com/DsM-6/DsM-Hub/main/Games/Ninja-Legends"}
 }
 
 for i, Game in ipairs(Games) do
